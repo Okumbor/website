@@ -1,0 +1,10 @@
+body {
+  padding-inline-start: 1px;
+  border-left: 0px;
+  border-block-start-style: none;
+}
+.div {
+  border: 1px;
+  border: gray;
+  background-origin: content-box;
+}
